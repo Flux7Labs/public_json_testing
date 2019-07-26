@@ -3,70 +3,70 @@
     "id": 1,
     "name": "Macedon",
     "region": "apac",
-    "lastReviewDate": "2019-07-23",
-    "followUpDate": "2019-07-24"
+    "lastReviewDate": "07-23-2019",
+    "followUpDate": "10-23-2019"
   },
   {
     "id": 2,
     "name": "Sparta",
     "region": "global",
-    "lastReviewDate": "2019-07-15",
-    "followUpDate": "2019-07-31"
+    "lastReviewDate": "07-23-2019",
+    "followUpDate": "10-23-2019"
   },
   {
     "id": 3,
     "name": "Rome",
     "region": "global",
-    "lastReviewDate": "2019-07-15",
-    "followUpDate": "2019-07-31"
+    "lastReviewDate": "07-23-2019",
+    "followUpDate": "10-23-2019"
   },
   {
     "id": 4,
     "name": "Paris",
     "region": "global",
-    "lastReviewDate": "2019-07-15",
-    "followUpDate": "2019-07-31"
+    "lastReviewDate": "07-23-2019",
+    "followUpDate": "10-23-2019"
   },
   {
     "id": 5,
     "name": "Dusseldorf",
     "region": "global",
-    "lastReviewDate": "2019-07-15",
-    "followUpDate": "2019-07-31"
+    "lastReviewDate": "07-23-2019",
+    "followUpDate": "10-23-2019"
   },
   {
     "id": 6,
     "name": "Liverpool",
     "region": "global",
-    "lastReviewDate": "2019-07-15",
-    "followUpDate": "2019-07-31"
+    "lastReviewDate": "07-23-2019",
+    "followUpDate": "10-23-2019"
   },
   {
     "id": 7,
     "name": "Madrid",
     "region": "global",
-    "lastReviewDate": "2019-07-15",
-    "followUpDate": "2019-07-31"
+    "lastReviewDate": "07-23-2019",
+    "followUpDate": "10-23-2019"
   },
   {
     "id": 8,
     "name": "Brussels",
     "region": "global",
-    "lastReviewDate": "2019-07-15",
-    "followUpDate": "2019-07-31"
+    "lastReviewDate": "07-23-2019",
+    "followUpDate": "10-23-2019"
   },
   {
     "id": 9,
     "name": "Vienna",
     "region": "global",
-    "lastReviewDate": "2019-07-15",
-    "followUpDate": "2019-07-31"
+    "lastReviewDate": "07-23-2019",
+    "followUpDate": "10-23-2019"
   },
   {
     "id": 10,
     "name": "Bucharest",
     "region": "global",
-    "lastReviewDate": "2019-07-15",
-    "followUpDate": "2019-07-31"
+    "lastReviewDate": "07-23-2019",
+    "followUpDate": "10-23-2019"
   }
 ]
